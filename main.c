@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include <MLV/MLV_all.h>
 
-#define TAILLE 10
+#define TAILLE 10 // Ne pas mettre a 1000 :) conseil
 int tableau[TAILLE][TAILLE];
 
 ///////////////////// Partie MLV 
